@@ -32,7 +32,7 @@ Hi there! 👋 I'm a 24-year-old **DevOps Engineer** passionate about building r
 ---
 
 ## 📫 Let's Connect  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/pratiksha-doke/))  
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/pratiksha-doke/)
 
 
 ---
