@@ -4,11 +4,37 @@
 
 :sparkler: Welcome to my hub 💻:raising_hand:
 ---
-- 🎓21 year old Computer Engineering undergrad student.
----
-- 🌱 I’m currently learning python and web development using mern stack
----
-- 💻 Mostly working on 🌐Web development
----
-- Loves 🎵 and 🎹.
+# 💻 DevOps Engineer | Full Stack Enthusiast | Cloud Explorer 🌩️  
 
+Hi there! 👋 I'm a 24-year-old **DevOps Engineer** passionate about building robust systems and interactive web applications.  
+
+---
+
+## 🌱 Currently Exploring
+- 🚀 **Cloud Technologies**: Enhancing my expertise in modern cloud ecosystems.
+- 💻 **Full Stack Development**: Bridging DevOps with impactful frontend and backend development.
+
+---
+
+## 💼 What I Work On  
+- **Web Development** 🌐  
+  Designing interactive applications with a focus on scalability, functionality, and aesthetics.  
+
+- **DevOps Practices** 🛠️  
+  Automating deployments, CI/CD pipelines, and infrastructure management.  
+
+---
+
+## 🎵 Hobbies  
+
+- 🎶 Creating melodies and vibing with tunes.
+
+---
+
+## 📫 Let's Connect  
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/pratiksha-doke/))  
+
+
+---
+
+> _"Code your dreams into reality."_  
