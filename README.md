@@ -69,8 +69,8 @@ Focused on building **reliable, scalable, and efficient systems** using modern D
 
 ## 📫 Let's Connect
 
-* 💼 **LinkedIn:** (https://www.linkedin.com/in/pratiksha-doke/)
-* 🌐 **Portfolio:** (https://pratikshadoke.github.io/pratiksha-portfolio/)
+* 💼 **[LinkedIn]:** (https://www.linkedin.com/in/pratiksha-doke/)
+* 🌐 **[Portfolio]:** (https://pratikshadoke.github.io/pratiksha-portfolio/)
 
 ---
 
