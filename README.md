@@ -1,6 +1,6 @@
 # Hi there, I'm Pratiksha 👋
 
-<img src="https://user-images.githubusercontent.com/67536654/158006270-9cdb981a-4106-40e8-af81-74a0f26f70af.gif" width="280" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/pratikshadoke/pratikshadoke/refs/heads/main/profile-pic.png" width="280" style="border-radius: 50%;" />
 
 ---
 
