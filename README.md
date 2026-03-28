@@ -1,41 +1,70 @@
-# Hi there I'm Pratiksha👋
+# Hi there, I'm Pratiksha 👋
 
-<img class="avatar avatar-user" src="https://user-images.githubusercontent.com/67536654/158006270-9cdb981a-4106-40e8-af81-74a0f26f70af.gif" width="400" height="400" style="border-radius: 50%;" />
-
-
-:sparkler: Welcome to my hub 💻:raising_hand:
----
-# 💻 DevOps Engineer | Full Stack Enthusiast | Cloud Explorer 🌩️  
-
-Hi there! 👋 I'm a 24-year-old **DevOps Engineer** passionate about building robust systems and interactive web applications.  
+<img src="https://user-images.githubusercontent.com/67536654/158006270-9cdb981a-4106-40e8-af81-74a0f26f70af.gif" width="280" style="border-radius: 50%;" />
 
 ---
 
-## 🌱 Currently Exploring
-- 🚀 **Cloud Technologies**: Enhancing my expertise in modern cloud ecosystems.
-- 💻 **Full Stack Development**: Bridging DevOps with impactful frontend and backend development.
+## 💻 DevOps Engineer | CI/CD | Cloud | Automation ☁️
+
+🚀 DevOps Engineer with **2.5+ years of experience** in designing, automating, and optimizing deployment pipelines.
+Focused on building **reliable, scalable, and efficient systems** using modern DevOps practices.
 
 ---
 
-## 💼 What I Work On  
-- **Web Development** 🌐  
-  Designing interactive applications with a focus on scalability, functionality, and aesthetics.  
+## 🔧 Core DevOps Skills
 
-- **DevOps Practices** 🛠️  
-  Automating deployments, CI/CD pipelines, and infrastructure management.  
-
----
-
-## 🎵 Hobbies  
-
-- 🎶 Creating melodies and vibing with tunes.
+* ⚙️ **CI/CD Pipelines** – Azure DevOps (multi-stage pipelines)
+* ☁️ **Cloud Platforms** – Azure, AWS (learning & hands-on)
+* 🐧 **Linux Administration** – Deployment, troubleshooting, automation
+* 🔁 **Automation & Scripting** – Shell scripting
+* 📦 **Build Tools** – Maven (Java-based applications)
+* 🔐 **Infrastructure & Access** – SSH, SFTP, VM deployments
+* 📊 **Monitoring** – Application Insights
 
 ---
 
-## 📫 Let's Connect  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/pratiksha-doke/)
+## 🚀 What I Do
 
+🔹 Design and implement **end-to-end CI/CD pipelines**
+🔹 Automate build, test, and deployment workflows
+🔹 Manage **multi-environment deployments (Dev, UAT, Prod)**
+🔹 Troubleshoot deployment and infrastructure issues
+🔹 Work with **VM-based architectures and secure access setup**
 
 ---
 
-> _"Code your dreams into reality."_  
+## 📌 Key Project
+
+### 🔹 Azure CI/CD Pipeline
+
+* Built automated pipeline for **Java applications using Maven**
+* Implemented **multi-stage deployment (Build → Test → Deploy)**
+* Deployed applications across **multiple VMs/environments**
+* Reduced manual effort and improved deployment reliability
+
+---
+
+## 🌱 Currently Learning
+
+* 🐳 Docker & Containerization
+* ☁️ Advanced AWS (EC2, VPC, IAM, Security Groups)
+* 🏗️ Infrastructure as Code (Terraform - upcoming)
+
+---
+
+## 🎯 DevOps Mindset
+
+✔ Automate everything possible
+✔ Ensure reliability and repeatability
+✔ Focus on scalability and performance
+✔ Continuously improve pipelines and processes
+
+---
+
+## 📫 Let's Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/pratiksha-doke/)
+
+---
+
+⚡ *"You build it, you run it, you automate it."*
