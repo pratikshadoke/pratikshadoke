@@ -1,35 +1,41 @@
 # Hi there, I'm Pratiksha 👋
 
-<img src="https://raw.githubusercontent.com/pratikshadoke/pratikshadoke/refs/heads/main/profile-pic.png" width="280" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/pratikshadoke/pratikshadoke/refs/heads/main/profile-pic.png" width="260" style="border-radius: 50%;" />
 
 ---
 
 ## 💻 DevOps Engineer | CI/CD | Cloud | Automation ☁️
 
-🚀 DevOps Engineer with **2.5+ years of experience** in designing, automating, and optimizing deployment pipelines.
+🚀 DevOps Engineer with **3.6+ years of experience** in designing, automating, and optimizing deployment pipelines.
 Focused on building **reliable, scalable, and efficient systems** using modern DevOps practices.
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Live Portfolio:** https://pratikshadoke.github.io/pratiksha-portfolio/
 
 ---
 
 ## 🔧 Core DevOps Skills
 
 * ⚙️ **CI/CD Pipelines** – Azure DevOps (multi-stage pipelines)
-* ☁️ **Cloud Platforms** – Azure, AWS (learning & hands-on)
+* ☁️ **Cloud Platforms** – Azure, AWS (hands-on)
 * 🐧 **Linux Administration** – Deployment, troubleshooting, automation
 * 🔁 **Automation & Scripting** – Shell scripting
 * 📦 **Build Tools** – Maven (Java-based applications)
-* 🔐 **Infrastructure & Access** – SSH, SFTP, VM deployments
+* 🔐 **Infrastructure & Access** – Terraform, Ansible, SSH, SFTP, VM deployments
 * 📊 **Monitoring** – Application Insights
 
 ---
 
 ## 🚀 What I Do
 
-🔹 Design and implement **end-to-end CI/CD pipelines**
-🔹 Automate build, test, and deployment workflows
-🔹 Manage **multi-environment deployments (Dev, UAT, Prod)**
-🔹 Troubleshoot deployment and infrastructure issues
-🔹 Work with **VM-based architectures and secure access setup**
+* 🔹 Design and implement **end-to-end CI/CD pipelines**
+* 🔹 Automate build, test, and deployment workflows
+* 🔹 Manage **multi-environment deployments (Dev, UAT, Prod)**
+* 🔹 Troubleshoot deployment and infrastructure issues
+* 🔹 Work with **VM-based architectures and secure access setup**
 
 ---
 
@@ -48,7 +54,7 @@ Focused on building **reliable, scalable, and efficient systems** using modern D
 
 * 🐳 Docker & Containerization
 * ☁️ Advanced AWS (EC2, VPC, IAM, Security Groups)
-* 🏗️ Infrastructure as Code (Terraform - upcoming)
+* 🏗️ Advanced Infrastructure as Code (Terraform)
 
 ---
 
@@ -63,7 +69,8 @@ Focused on building **reliable, scalable, and efficient systems** using modern D
 
 ## 📫 Let's Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/pratiksha-doke/)
+* 💼 **LinkedIn:** (https://www.linkedin.com/in/pratiksha-doke/)
+* 🌐 **Portfolio:** (https://pratikshadoke.github.io/pratiksha-portfolio/)
 
 ---
 
