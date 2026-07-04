@@ -6,7 +6,7 @@
 
 ## 💻 DevOps Engineer | CI/CD | Cloud | Automation ☁️
 
-🚀 DevOps Engineer with **3.6+ years of experience** in designing, automating, and optimizing deployment pipelines.
+🚀 DevOps Engineer with **3.11+ years of experience** in designing, automating, and optimizing deployment pipelines.
 Focused on building **reliable, scalable, and efficient systems** using modern DevOps practices.
 
 ---
