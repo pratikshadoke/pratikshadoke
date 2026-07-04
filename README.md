@@ -6,7 +6,7 @@
 
 ## 💻 DevOps Engineer | CI/CD | Cloud | Automation ☁️
 
-🚀 🚀 DevOps Engineer with **3.11+ years of experience** specializing in Azure DevOps, Kubernetes, Terraform, Docker, CI/CD automation, cloud infrastructure, and production release management. Passionate about building reliable, scalable, and automated deployment platforms.
+🚀 DevOps Engineer with **3.11+ years of experience** specializing in Azure DevOps, Kubernetes, Terraform, Docker, CI/CD automation, cloud infrastructure, and production release management. Passionate about building reliable, scalable, and automated deployment platforms.
 
 ---
 
