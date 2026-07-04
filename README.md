@@ -6,8 +6,7 @@
 
 ## 💻 DevOps Engineer | CI/CD | Cloud | Automation ☁️
 
-🚀 DevOps Engineer with **3.11+ years of experience** in designing, automating, and optimizing deployment pipelines.
-Focused on building **reliable, scalable, and efficient systems** using modern DevOps practices.
+🚀 🚀 DevOps Engineer with **3.11+ years of experience** specializing in Azure DevOps, Kubernetes, Terraform, Docker, CI/CD automation, cloud infrastructure, and production release management. Passionate about building reliable, scalable, and automated deployment platforms.
 
 ---
 
@@ -19,25 +18,32 @@ Focused on building **reliable, scalable, and efficient systems** using modern D
 
 ## 🔧 Core DevOps Skills
 
-* ⚙️ **CI/CD Pipelines** – Azure DevOps (multi-stage pipelines)
-* ☁️ **Cloud Platforms** – Azure, AWS (hands-on)
-* 🐧 **Linux Administration** – Deployment, troubleshooting, automation
-* 🔁 **Automation & Scripting** – Shell scripting
-* 📦 **Build Tools** – Maven (Java-based applications)
-* 🔐 **Infrastructure & Access** – Terraform, Ansible, SSH, SFTP, VM deployments
-* 📊 **Monitoring** – Application Insights
+- ⚙️ CI/CD: Azure DevOps, GitHub Actions, Maven
+- ☁️ Cloud: Azure, AWS
+- 🐳 Containers: Docker, Kubernetes (AKS), Helm
+- 🏗️ Infrastructure as Code: Terraform, ARM Templates, Packer
+- 🐧 Linux & Automation: Bash, Python, Shell Scripting
+- 📦 Container Registry: Azure Container Registry (ACR)
+- 📊 Monitoring: Azure Monitor, Application Insights, Log Analytics, Grafana, Prometheus
+- 🔐 Networking: VNets, NSGs, DNS, VNet Peering
+- 🚀 Deployment Strategies: Blue-Green Deployment, Rolling Updates
 
 ---
 
 ## 🚀 What I Do
 
-* 🔹 Design and implement **end-to-end CI/CD pipelines**
-* 🔹 Automate build, test, and deployment workflows
-* 🔹 Manage **multi-environment deployments (Dev, UAT, Prod)**
-* 🔹 Troubleshoot deployment and infrastructure issues
-* 🔹 Work with **VM-based architectures and secure access setup**
-
+- Design and maintain enterprise CI/CD pipelines for Java microservices
+- Automate infrastructure provisioning using Terraform and ARM Templates
+- Deploy and manage containerized applications on Kubernetes (AKS)
+- Implement Blue-Green and Rolling Update deployment strategies
+- Configure monitoring using Azure Monitor, Grafana, Prometheus, and Application Insights
+- Troubleshoot production deployments and infrastructure issues
+- Manage Azure networking, virtual machines, and secure deployment environments
 ---
+
+## 🛠️ Tech Stack
+
+Azure • AWS • Azure DevOps • GitHub Actions • Terraform • Docker • Kubernetes • Helm • Maven • Bash • Python • Linux • Grafana • Prometheus • Application Insights • Azure Monitor • Log Analytics • Git
 
 ## 📌 Key Project
 
